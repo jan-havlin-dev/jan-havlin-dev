@@ -28,6 +28,6 @@ I aim to expand my skills towards full-stack development and eventually solution
 
 **Connect with me:** [LinkedIn](http://linkedin.com/in/jan-h-35b138395)
 
-**Fun fact:** I see programming as a creative pursuit, much like 
-art, another field I’ve explored. Both can feel a bit intangible 
-at times — but I’ve never minded thinking in the abstract.
+**Fun fact:** I see programming as a pursuit as creative as art, another field I’ve explored.   
+Both can feel so intangible at times — but the truth is that I’ve never minded thinking   
+in the abstract.
