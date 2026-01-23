@@ -9,7 +9,7 @@ for a well-rounded perspective.
 **Current focus:**  
 - **Rust** – my first language; pure power, heavy but beautiful    
 - **Go** - pragmatic and lightweight; faster backend services, simpler development
-- **Elixir** – functional, Actor-model-inspired, perfect for certain backend use cases  
+- **Elixir** – functional, Actor-model-inspired, addressing a unique niche of the backend 
 
 **What I'm learning / exploring:**  
 - Cloud infrastructure and services
