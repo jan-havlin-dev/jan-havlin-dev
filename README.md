@@ -1,4 +1,4 @@
-# Hi, I'm Jan Havlin
+# Hi, I'm Jan Havlín
 
 Rust expert and performance-focused backend developer, specializing in distributed   
 systems, microservices, and data-intensive applications. Commited to designing    
